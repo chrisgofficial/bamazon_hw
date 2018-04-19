@@ -15,10 +15,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaymar14/bamazon.git"
+    "url": "git+https://github.com/chrisgofficial/bamazon.git"
   },
   "bugs": {
-    "url": "https://github.com/jaymar14/bamazon/issues"
+    "url": "https://github.com/chrisgofficial/bamazon/issues"
   },
-  "homepage": "https://github.com/jaymar14/bamazon#readme"
+  "homepage": "https://github.com/chrisgofficial/bamazon#readme"
 }
